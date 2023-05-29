@@ -1,3 +1,6 @@
 Nasdaq-Data-Link==1.0.4
 tradingview-ta==3.3.0
 yfinance==0.2.18
+finnhub-python==2.4.18
+websocket==0.2.1
+websocket-client==1.5.2
